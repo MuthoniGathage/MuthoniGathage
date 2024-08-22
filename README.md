@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muthoni Gathage
+- 👋 Hi, I’m Christabel Gathage. I am a data analyst/scientist with domain expertise in Procurement and Logistics Management.
 
 
 <!---
