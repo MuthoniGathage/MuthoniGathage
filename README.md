@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Christabel Gathage. I am a data analyst/scientist with domain expertise in Procurement and Logistics Management.
+- My technical niche is in Python,SQL,Ms Excel,Tableau,Power Bi,R,MongoDB,Statistical analysis,HTML,CSS,JavaScript,Linux,Django, and AWS.
 
 
 <!---
